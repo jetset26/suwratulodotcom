@@ -1,0 +1,275 @@
+/**BaseStyles**/
+body {
+  font-family: 'Raleway', sans-serif;
+  background: #f8f6f7;
+}
+p {
+  font-size: 18px;
+}
+h1 {
+  font-family: 'Shrikhand',cursive;
+  font-size: 60px;
+}
+h2 {
+  font-size: 48px;
+}
+h3{
+  font-size: 72px
+  color:#f3736e;
+  font-weight: 300;
+}
+.links{
+  color: #f3736e;
+}
+.full-width {
+  width: 1366px;
+}
+  .half-width {
+    width: 50%;
+    float: left;
+  }
+  .third-width {
+    width: 33%;
+    float:left;
+}
+/**Header**/
+header {
+  height:768px;
+}
+#logo{
+  left: 50px;
+  width: 382px;
+  height:93px;
+}
+
+header #background{
+  margin-top: 25px;
+  width: 1366px;
+}
+header h1 {
+  font-family: 'Shrikhand', cursive;
+  font-size: 60px;
+  line-height: 15px;
+  text-align: center;
+}
+header #navtext {
+  z-index: 100;
+  position: absolute;
+  color: white;
+  font-family: 'raleway',sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  top: 545px;
+  left: 500px;
+}
+span{
+  color: white;
+}
+
+
+/**About**/
+#Bio section{
+  height:768px;
+}
+ul{
+  display: block;
+  margin: 0 222px 0 222px;
+}
+li{
+  display: block;
+  float:left;
+}
+.stars {
+  width: 152px;
+  height: 128px;
+}
+.bars{
+  width: 1266px;
+  height: 50px;
+  position: relative;
+  left: 54px;
+}
+#midstar{
+  margin: 0 183px 0 183px;
+}
+#bottombar{
+  position: relative;
+  bottom:29px;
+}
+#aboutme {
+  width: 540px;
+  height: 135px;
+  position: relative;
+  left: 54px;
+}
+#about {
+  position: relative;
+  left: 54px;
+  top: -45px;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 52px;
+  width: 1266px;
+}
+
+/**About Part II**/
+Section #T-Rexy{
+  height:768px;
+  margin-bottom: 200px;
+}
+#suwratulo2{
+  padding-left: 50px;
+}
+h2{
+  font-size: 72px;
+  line-height: 36px;
+  font-weight: 900;
+  color: white;
+  text-shadow: 2px 2px 4px #303030;
+}
+#QA {
+  position: relative;
+}
+
+#trexsky{
+  position: relative;
+  bottom: 51px;
+}
+.lauren{
+  position:absolute;
+  top:10px;
+  left:20px;
+}
+.me{
+  position: absolute;
+  bottom:175px;
+  left: 20px;
+}
+
+.qmark{
+  font-size: 64px;
+  line-height: 72px;
+  font-weight: 500;
+}
+.answer{
+  font-size: 36px;
+  line-height: 36px;
+  color: white;
+  text-shadow: 2px 2px 4px #303030;
+}
+.reply{
+  font-weight: 500;
+}
+.t-rex-approved{
+  position: absolute;
+  left: 260px;
+  bottom: 130px;
+  width: 153px;
+  height: 152px;
+}
+.TinaRexy{
+  width: 598px;
+  height: 652px;
+  position:absolute;
+  bottom: 0px;
+  right: 455px;
+}
+
+
+
+/**Skills**/
+#Skills{
+  height:768px;
+  margin-top: 115px;
+  background: url('../img/skills-background.png');
+  background-size: cover;
+  margin-bottom: 200px;
+}
+.skillscontain{
+  position: relative;
+}
+#skillsheader{
+  position:absolute;
+  top: 60px;
+  left:393px;
+}
+.skillicons{
+  position: relative;
+  top: 289px;
+  width: 232px;
+  height: 232px;
+  margin-left: 133px;
+}
+.skillstext{
+  position: relative;
+  top: 266px;
+  left: 25px;
+  text-align: center;
+  color: #f3736e;
+  font-size: 48px;
+  line-height: 52px;
+}
+
+/**Work**/
+Section #Work{
+  height:768px;
+  margin-bottom: 400px;
+}
+#designheader{
+  padding: 40px 54px 100px 0;
+}
+#j-a{
+  padding-right: 20px;
+}
+h3{
+  text-align: center;
+  color: #f3736e;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+
+/**Connect**/
+Section #Friends{
+  height: 768px;
+  margin-top: 200px;
+}
+#letsbefriends{
+  position: relative;
+  top: 40px;
+  left: 54px;
+  padding: 70px 54px 0 0;
+}
+.friends{
+  text-align: right;
+    color: #f3736e;
+    font-size: 18px;
+    padding-right: 70px;
+}
+.connect {
+  text-align: center;
+  color: #f3736e;
+  font-size: 18px;
+  margin: 50px 0 40px 0;
+}
+.igspot{
+  padding: 21px 0 0 54px;
+}
+#ig{
+  padding-bottom: 21px;
+}
+.icons{
+  width: 16px;
+  height: 16px;
+}
+.socialmedia{
+  display: block;
+}
+.specialthanks{
+  color: #f3736e;
+  text-align: center;
+  font-size: 16px;
+}
+.thankslinks{
+  padding-left: 472px;
+}
